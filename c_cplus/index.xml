@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rikioy&#39;s Site</title>
-    <link>http://rikioy.github.io/</link>
-    <description>Recent content on Rikioy&#39;s Site</description>
+    <title>C_cplus on Rikioy&#39;s Site</title>
+    <link>http://rikioy.github.io/c_cplus/</link>
+    <description>Recent content in C_cplus on Rikioy&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>&amp;copy; Copyright 2018 Rikioy</copyright>
     <lastBuildDate>Mon, 09 Jul 2018 02:03:20 +0000</lastBuildDate>
     
-	<atom:link href="http://rikioy.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rikioy.github.io/c_cplus/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
