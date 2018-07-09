@@ -3,18 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://rikioy.github.io/test/</loc>
-    <lastmod>2018-06-08T03:17:32+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://rikioy.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://rikioy.github.io/</loc>
-    <lastmod>2018-06-08T03:17:32+00:00</lastmod>
     <priority>0</priority>
   </url>
   

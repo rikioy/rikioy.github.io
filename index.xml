@@ -7,19 +7,9 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>&amp;copy; Copyright 2018 Rikioy</copyright>
-    <lastBuildDate>Fri, 08 Jun 2018 03:17:32 +0000</lastBuildDate>
     
 	<atom:link href="http://rikioy.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Test</title>
-      <link>http://rikioy.github.io/test/</link>
-      <pubDate>Fri, 08 Jun 2018 03:17:32 +0000</pubDate>
-      
-      <guid>http://rikioy.github.io/test/</guid>
-      <description> testtest </description>
-    </item>
     
   </channel>
 </rss>
