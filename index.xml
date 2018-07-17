@@ -7,20 +7,9 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>&amp;copy; Copyright 2018 Rikioy</copyright>
-    <lastBuildDate>Mon, 09 Jul 2018 02:03:20 +0000</lastBuildDate>
     
 	<atom:link href="http://rikioy.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>breakpad分析1-processor</title>
-      <link>http://rikioy.github.io/c_cplus/breakpad_1/</link>
-      <pubDate>Mon, 09 Jul 2018 02:03:20 +0000</pubDate>
-      
-      <guid>http://rikioy.github.io/c_cplus/breakpad_1/</guid>
-      <description>intro 项目地址 https://github.com/google/breakpad
-processor ###processor目录中内容 * minidump_stackwalk.cc minidump_stackwalk工具源码</description>
-    </item>
     
   </channel>
 </rss>
